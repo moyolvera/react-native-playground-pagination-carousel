@@ -32,7 +32,8 @@ yarn install && yarn android
 ```
 
 ## Example
-Comming soon
+![Example of the running app](https://media.giphy.com/media/L4NWXTZIz1GWP3v0vK/giphy.gif)
+
 
 ## License
 
